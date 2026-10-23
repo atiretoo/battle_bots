@@ -31,7 +31,8 @@ ENV/
 .coverage
 htmlcov/
 
-# CAD / Temporary Outputs
+# CAD / Generated Exports & Temporary Outputs
+exports/
 *.tmp
 scratch/
 
